@@ -1,0 +1,107 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 27,
+        "name": "validating user page",
+        "description": "",
+        "id": "using-tags;validating-user-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "user is alreay on home page",
+            "match": {
+              "location": "TagsDefinition.user_is_alreay_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "test home page title",
+            "match": {
+              "location": "TagsDefinition.test_home_page_title()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 30,
+            "name": "Click on ligin link",
+            "match": {
+              "location": "TagsDefinition.click_on_ligin_link()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 31,
+            "name": "enter username and password",
+            "match": {
+              "location": "TagsDefinition.enter_username_and_password(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "anilkumarthota2179@gmail.com",
+                  "anil131841"
+                ],
+                "line": 32
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 33,
+            "name": "Click on login button",
+            "match": {
+              "location": "TagsDefinition.click_on_ligin_buttion()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 34,
+            "name": "Click on Contacts link",
+            "match": {
+              "location": "TagsDefinition.click_on_Contacts_link()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 26,
+            "name": "@SomkeTest"
+          },
+          {
+            "line": 26,
+            "name": "@End2End"
+          }
+        ]
+      }
+    ],
+    "name": "using tags",
+    "description": "",
+    "id": "using-tags",
+    "keyword": "Feature",
+    "uri": "Y:/New Work Space/CRMWebsite/src/main/java/Features/taging.feature"
+  }
+]

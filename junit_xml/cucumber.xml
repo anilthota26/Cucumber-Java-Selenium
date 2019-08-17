@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="using tags" name="validating user page" time="0">
+<system-out><![CDATA[Given user is alreay on home page...........................................skipped
+Then test home page title...................................................skipped
+Then Click on ligin link....................................................skipped
+Then enter username and password............................................skipped
+Then Click on login button..................................................skipped
+Then Click on Contacts link.................................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
