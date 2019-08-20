@@ -6,7 +6,7 @@ Feature: login page feature
 #Given user is alreay on login page
 #When Title of page is login page
 #Then click on login button
-#Then user enters "anilkumarthota2179@gmail.com" and "anil131841"
+#Then user enters "anilkumar@gmail.com" and "anil131841"
 #Then user clicks login button
 #Then user is on UserHome Page  
 #Then close the browser
@@ -19,7 +19,7 @@ Feature: login page feature
 #When Title of page is login page
 #Then click on login button
 #Then user enters username and password
-#|anilkumarthota2179@gmail.com|anil131841|
+#|anilkumar@gmail.com|anil131841|
 #
 #Then user clicks login button
 #Then user is on UserHome Page 
@@ -37,6 +37,6 @@ Then close the browser
 
 Examples:
 |username|password|
-|anilkumarthota2179@gmail.com|anil131841|
-|anilkumarthota2179@gmail.com|anil131841|
-|anilkumarthota2179@gmail.com|anil131841|
+|anilkumar@gmail.com|anil131841|
+|anilkumar@gmail.com|anil131841|
+|anilkumar@gmail.com|anil131841|

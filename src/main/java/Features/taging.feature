@@ -18,7 +18,7 @@ Given user is alreay on home page
 Then test home page title
 Then Click on ligin link
 Then enter username and password
-|anilkumarthota2179@gmail.com|anil131841|
+|anilkumar@gmail.com|anil131841|
 Then Click on login button
 
 
@@ -29,7 +29,7 @@ Given user is alreay on home page
 Then test home page title
 Then Click on ligin link
 Then enter username and password
-|anilkumarthota2179@gmail.com|anil131841|
+|anilkumar@gmail.com|anil131841|
 Then Click on login button
 Then Click on Contacts link
 
@@ -39,7 +39,7 @@ Given user is alreay on home page
 Then test home page title
 Then Click on ligin link
 Then enter username and password
-|anilkumarthota2179@gmail.com|anil131841|
+|anilkumar@gmail.com|anil131841|
 Then Click on login button
 Then Click on Contacts link
 Then enter firstname and lastname

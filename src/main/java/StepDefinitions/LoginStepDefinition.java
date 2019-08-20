@@ -51,7 +51,7 @@
 //
 ////	@Then("^user enters username and password$")
 ////	public void user_enters_username_and_password(){
-////		driver.findElement(By.xpath("//input[@name='email']")).sendKeys("anilkumarthota2179@gmail.com");;
+////		driver.findElement(By.xpath("//input[@name='email']")).sendKeys("anilkumar@gmail.com");;
 ////		driver.findElement(By.xpath("//input[@name='password']")).sendKeys("anil131841");
 ////		
 ////	
