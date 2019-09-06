@@ -7,7 +7,7 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features="Y:\\New Work Space\\CRMWebsite\\src\\main\\java\\Features\\hooks.feature",
+		features="Y:\\New Work Space\\CRMWebsite\\src\\main\\java\\Features\\login.feature",
 		glue= {"StepDefinitions"},
 		format={"pretty","html:test-outout", "json:json_output/cucumber.json", "junit:junit_xml/cucumber.xml"},//report generation
 		strict=true,
